@@ -118,6 +118,16 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Steve",
+      "species": "Giraffe",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious"
+      ],
+      "id": "12"
     }
   ]
 }
